@@ -1,4 +1,4 @@
-# robinx-io
+# RobinX
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,143 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-robinx-io is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://robinx.io/
+RobinX provides measured social signals for trading bots on the Robinhood Chain. It aggregates public X and Telegram posts, on‑chain data, and token metrics to deliver curated signals with receipts. The service offers REST, signed webhook, and MCP endpoints, charging per call without requiring signup, and positions itself as an independent analytics product not affiliated with Robinhood Markets.
+
+**Areas:** Analytics · Blockchain · Social Signals · Trading Bots · Crypto
+
+## RobinX on APIs.io
+
+Everything profiled for RobinX is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/robinx-io/](https://apis.io/providers/robinx-io/)** — or go straight to one of the APIs or properties below.
+
+### APIs (35)
+
+- [RobinX Agent API](https://apis.io/apis/robinx-io/robinx-io-agent-api/) — The Agent API from RobinX — 1 operation(s) for agent.
+- [RobinX Alerts API](https://apis.io/apis/robinx-io/robinx-io-alerts-api/) — The Alerts API from RobinX — 4 operation(s) for alerts.
+- [RobinX Arc API](https://apis.io/apis/robinx-io/robinx-io-arc-api/) — The Arc API from RobinX — 4 operation(s) for arc.
+- [RobinX Badge API](https://apis.io/apis/robinx-io/robinx-io-badge-api/) — The Badge API from RobinX — 1 operation(s) for badge.
+- [RobinX Basket API](https://apis.io/apis/robinx-io/robinx-io-basket-api/) — The Basket API from RobinX — 1 operation(s) for basket.
+- [RobinX Billing API](https://apis.io/apis/robinx-io/robinx-io-billing-api/) — The Billing API from RobinX — 2 operation(s) for billing.
+- [RobinX Caller API](https://apis.io/apis/robinx-io/robinx-io-caller-api/) — The Caller API from RobinX — 2 operation(s) for caller.
+- [RobinX Callers API](https://apis.io/apis/robinx-io/robinx-io-callers-api/) — The Callers API from RobinX — 1 operation(s) for callers.
+- [RobinX Check API](https://apis.io/apis/robinx-io/robinx-io-check-api/) — The Check API from RobinX — 1 operation(s) for check.
+- [RobinX Deployer API](https://apis.io/apis/robinx-io/robinx-io-deployer-api/) — The Deployer API from RobinX — 1 operation(s) for deployer.
+- [RobinX Entity API](https://apis.io/apis/robinx-io/robinx-io-entity-api/) — The Entity API from RobinX — 1 operation(s) for entity.
+- [RobinX Feed API](https://apis.io/apis/robinx-io/robinx-io-feed-api/) — The Feed API from RobinX — 1 operation(s) for feed.
+- [RobinX Follows API](https://apis.io/apis/robinx-io/robinx-io-follows-api/) — The Follows API from RobinX — 1 operation(s) for follows.
+- [RobinX Forensics API](https://apis.io/apis/robinx-io/robinx-io-forensics-api/) — The Forensics API from RobinX — 1 operation(s) for forensics.
+- [RobinX Genesis API](https://apis.io/apis/robinx-io/robinx-io-genesis-api/) — The Genesis API from RobinX — 1 operation(s) for genesis.
+- [RobinX Identify API](https://apis.io/apis/robinx-io/robinx-io-identify-api/) — The Identify API from RobinX — 1 operation(s) for identify.
+- [RobinX Leaderboard API](https://apis.io/apis/robinx-io/robinx-io-leaderboard-api/) — The Leaderboard API from RobinX — 1 operation(s) for leaderboard.
+- [RobinX Mentions API](https://apis.io/apis/robinx-io/robinx-io-mentions-api/) — The Mentions API from RobinX — 1 operation(s) for mentions.
+- [RobinX Omega API](https://apis.io/apis/robinx-io/robinx-io-omega-api/) — The Omega API from RobinX — 1 operation(s) for omega.
+- [RobinX Proof.json API](https://apis.io/apis/robinx-io/robinx-io-proof-json-api/) — The Proof.json API from RobinX — 1 operation(s) for proof.json.
+- [RobinX Pulse API](https://apis.io/apis/robinx-io/robinx-io-pulse-api/) — The Pulse API from RobinX — 1 operation(s) for pulse.
+- [RobinX Record API](https://apis.io/apis/robinx-io/robinx-io-record-api/) — The Record API from RobinX — 1 operation(s) for record.
+- [RobinX Report API](https://apis.io/apis/robinx-io/robinx-io-report-api/) — The Report API from RobinX — 1 operation(s) for report.
+- [RobinX Search API](https://apis.io/apis/robinx-io/robinx-io-search-api/) — The Search API from RobinX — 1 operation(s) for search.
+- [RobinX Signals API](https://apis.io/apis/robinx-io/robinx-io-signals-api/) — The Signals API from RobinX — 1 operation(s) for signals.
+- [RobinX Social API](https://apis.io/apis/robinx-io/robinx-io-social-api/) — The Social API from RobinX — 2 operation(s) for social.
+- [RobinX Solana API](https://apis.io/apis/robinx-io/robinx-io-solana-api/) — The Solana API from RobinX — 1 operation(s) for solana.
+- [RobinX Stats API](https://apis.io/apis/robinx-io/robinx-io-stats-api/) — The Stats API from RobinX — 1 operation(s) for stats.
+- [RobinX Structure API](https://apis.io/apis/robinx-io/robinx-io-structure-api/) — The Structure API from RobinX — 3 operation(s) for structure.
+- [RobinX Tg API](https://apis.io/apis/robinx-io/robinx-io-tg-api/) — The Tg API from RobinX — 1 operation(s) for tg.
+- [RobinX Token API](https://apis.io/apis/robinx-io/robinx-io-token-api/) — The Token API from RobinX — 1 operation(s) for token.
+- [RobinX Verdict API](https://apis.io/apis/robinx-io/robinx-io-verdict-api/) — The Verdict API from RobinX — 1 operation(s) for verdict.
+- [RobinX Wallet API](https://apis.io/apis/robinx-io/robinx-io-wallet-api/) — The Wallet API from RobinX — 1 operation(s) for wallet.
+- [RobinX Wallet Receipt API](https://apis.io/apis/robinx-io/robinx-io-wallet-receipt-api/) — The Wallet Receipt API from RobinX — 1 operation(s) for wallet receipt.
+- [RobinX Watchlist API](https://apis.io/apis/robinx-io/robinx-io-watchlist-api/) — The Watchlist API from RobinX — 1 operation(s) for watchlist.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [RobinX Agentic Access](https://apis.io/agentic-access/robinx-io/robinx-io-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [RobinX API Rules](https://apis.io/rules/robinx-io/robinx-io-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [RobinX Domain Security](https://apis.io/security/robinx-io/robinx-io-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [RobinX Plans Pricing](https://apis.io/plans/robinx-io/robinx-io-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://robinx.io/)
+- [Documentation](https://robinx.io/api)
+- [API reference](https://robinx.io/api)
+- [Pricing](https://robinx.io/pricing)
+- [Terms of service](https://robinx.io/terms)
+- [Privacy policy](https://robinx.io/privacy)
+
+## API Evangelist rating
+
+**Kin Score 42.7** — developing · rubric 0.27.0 · scored 2026-11-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 41.2 |
+| Contract governance | 65.5 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 23.1 |
+| Access clarity | 60.0 |
+
+**Agent readiness 54.5** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/robinx-io/](https://apis.io/providers/robinx-io/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for RobinX: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/robinx-io/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
